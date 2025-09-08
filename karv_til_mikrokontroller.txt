@@ -1,16 +1,10 @@
-
+jeg øsker meg 
 5 volt pin
-klokke frekvens på rudnt Mhz
-pullrate oppe i lav Mhz eller høye kHz
+
+klokke frekvens oppe i lav Mhz eller høye kHz
+
+usb c
+
+liten, jo mindre jo bedre
 
 
-
-krav
-pinOut
-
-
-
-nice om 
-
-
-esp/arduino
