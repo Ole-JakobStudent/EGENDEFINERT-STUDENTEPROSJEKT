@@ -1,0 +1,16 @@
+
+5 volt pin
+klokke frekvens på rudnt Mhz
+pullrate oppe i lav Mhz eller høye kHz
+
+
+
+krav
+pinOut
+
+
+
+nice om 
+
+
+esp/arduino
