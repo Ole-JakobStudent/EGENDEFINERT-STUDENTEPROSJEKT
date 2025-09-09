@@ -1,4 +1,6 @@
 while basert måling. (Done)
+    PWM?
+    Distance?
 
 Interupt basert(startet på)
     men hva gjøre når lyset er på?
