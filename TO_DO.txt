@@ -1,0 +1,38 @@
+while basert måling. (Done)
+
+Interupt basert(startet på)
+    men hva gjøre når lyset er på?
+    loope, er ingentign som skal kjøres?
+    måle avstand?
+
+Koble ESP32 til kårde
+    OBS internal pull up, så knappen burde gå til jord
+
+Koble opp til lys
+    sjekke LED i Maske funksjonen
+    feste den bedre. 
+    Finne en ikke Reele basert metode.
+    Bestille mer reeler?
+    Bestille transistors?
+        om tiden er innafor
+
+Casing
+    Første utgave av tre?
+    fordel 
+        jeg er mer kjent med det.
+        jeg kan drille skruer i veggene. 
+        
+    Hull til ledninger,
+    koblings punkt for kårde ledninger.
+        mulig gammle telefon ting har same plugg.
+    
+    Kan 3D printe en finere case senere
+    innput 
+        strøm
+        knapp(kårde)
+    output
+        LED
+
+    Mulighet til å åpne for å se på lednigner. 
+
+sjekke om det funker 

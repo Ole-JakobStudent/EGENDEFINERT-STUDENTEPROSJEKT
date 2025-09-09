@@ -32,21 +32,19 @@ void setup() {
 
   //start serial connection
 
-  Serial.begin(9600);
+  Serial.begin(115200);
 
   //configure pin 2 as an input and enable the internal pull-up resistor
-
-  pinMode(2, INPUT_PULLUP);
-
+  pinMode(14, INPUT_PULLUP);
+  //pinMode(4, INPUT_PULLDOWN);
   pinMode(13, OUTPUT);
-
 }
 
 void loop() {
 
   //read the pushbutton value into a variable
 
-  int sensorVal = digitalRead(2);
+  int sensorVal = digitalRead(14);
 
   //print out the value of the pushbutton
 
@@ -60,7 +58,7 @@ void loop() {
 
   if (sensorVal == HIGH) {
 
-    digitalWrite(13, LOW);
+      digitalWrite(13, LOW);
 
   } else {
 
